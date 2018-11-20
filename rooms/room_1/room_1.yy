@@ -26,8 +26,10 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+
 {"name": "inst_7EF65F3F","id": "7768c80d-3030-4e64-bb60-a2a872c68334","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7EF65F3F","objId": "1410d7aa-b2a5-43d9-8123-196f8e2e3747","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 384},
 {"name": "inst_1DDDB84","id": "b147ce08-ddda-4ca0-9244-c989e722bfcb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1DDDB84","objId": "db0e8494-835f-4151-88ca-051f09f38dba","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 896,"y": 352}
+
             ],
             "layers": [
 
@@ -45,14 +47,18 @@
             "id": "b82aa754-79b5-4604-ac12-df4d611bd8be",
             "animationFPS": 60,
             "animationSpeedType": "0",
+
             "colour": { "Value": 4294967295 },
+
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
+
             "htiled": true,
+
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -64,13 +70,17 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
+
             "spriteId": "53161ea3-6759-4154-9fc5-d7278b6a5f11",
             "stretch": true,
+
             "userdefined_animFPS": true,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
+
             "vtiled": true,
+
             "x": 0,
             "y": 0
         }
